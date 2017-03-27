@@ -1,0 +1,28 @@
+{
+  "name": "zeqi.koa",
+  "version": "1.0.0",
+  "description": "zeqi.koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "zeqi.koa",
+    "koa"
+  ],
+  "author": "zeqi",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "2.6.3",
+    "koa": "2.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zeqi/zeqi.koa.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zeqi/zeqi.koa/issues"
+  },
+  "homepage": "https://github.com/zeqi/zeqi.koa#readme"
+}
